@@ -60,7 +60,6 @@ Patients with memory issues 🧠.
 Those with low income, low education, or unable to work 💼.
 Patients experiencing sleep problems 🛏️ (too much or too little).
 Doctors should be prepared to address these indicators and take the necessary steps for mental health referrals. Tree-based models didn’t perform well for this task, while linear models showed the best results.
-![Uploading image.png…]()
 
 🚀 Future Directions
 Try more models: Neural networks could provide better results, though at the cost of interpretability 🧬.
@@ -68,6 +67,7 @@ Optimize the dataset: Adding more patient entries rather than features may help 
 Experiment with new techniques: Testing different parameter combinations and techniques, like custom F-statistics, could further improve model accuracy ⚙️.
 📝 Conclusion
 Mental health is a critical, yet often neglected, part of healthcare. Machine learning can bridge this gap by offering a low-cost, scalable solution to predict depression before it worsens. Our project shows promising results, but there is still much to explore!
+![Uploading image.png…]()
 
 🔗 References
 
