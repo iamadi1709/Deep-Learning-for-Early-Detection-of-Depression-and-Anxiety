@@ -1,5 +1,7 @@
 **🧠 Deep Learning for Early Detection of Depression & Anxiety**
 
+![image](https://github.com/user-attachments/assets/607e48f3-be5d-4ff0-8c7f-199e206e95ef)
+
 This project aims to leverage machine learning to predict depression using healthcare data 🏥. By making the process accessible and replicable, we hope this work contributes to improving mental health diagnosis 💡.
 
 🗂 Repository Structure
@@ -20,6 +22,8 @@ Dashboard/: 📊 Companion dashboard files.
 Mental health issues affect millions worldwide, with depression being one of the leading causes of disability and death by suicide 😔. Despite this, many primary care physicians lack the necessary training to address mental health problems. Through this project, we explore how machine learning can help doctors better identify patients at risk of depression early on. Using data from the CDC National Health and Nutrition Examination Survey (NHANES), this project predicts depression based on patient information often available in medical files. These insights could be used to alert healthcare providers or even trigger automated mental health referrals, thereby making treatment more accessible.
 
 💡 Key Result: Our model accurately identified 71% of depressed individuals and 80% of non-depressed individuals, demonstrating the feasibility of this approach. There’s room for improvement, but this project provides a solid proof of concept!
+
+![image](https://github.com/user-attachments/assets/933cf6ca-29ba-458c-92a1-4d34a7dda59e)
 
 📚 Introduction
 Depression affects over 264 million people worldwide 🌍, and suicide is among the leading causes of death, especially for young adults. In 2017, 7.1% of U.S. adults experienced a major depressive episode, with young adults being the most vulnerable. Despite this, only a small fraction of patients receive proper mental health care. In fact, about 70% of individuals with depression go undiagnosed. This project aims to develop a low-cost, automated solution using machine learning to detect depression, bridging the gap between primary care and specialized mental health services.
@@ -47,6 +51,7 @@ Our Stochastic Gradient Descent (SGD) classifier emerged as the top-performing m
 Depressed class accuracy: 71%
 Non-depressed class accuracy: 80%
 Other models, like XGBoost and Extra Trees, showed promise but required further tuning for better results. Linear models, in general, were the most effective in predicting depression.
+![image](https://github.com/user-attachments/assets/6fef4e68-39d4-4e3d-b481-f6d6579c4aa4)
 
 💡 Recommendations
 Healthcare professionals should be aware of certain patterns observed in our model:
@@ -55,6 +60,7 @@ Patients with memory issues 🧠.
 Those with low income, low education, or unable to work 💼.
 Patients experiencing sleep problems 🛏️ (too much or too little).
 Doctors should be prepared to address these indicators and take the necessary steps for mental health referrals. Tree-based models didn’t perform well for this task, while linear models showed the best results.
+![Uploading image.png…]()
 
 🚀 Future Directions
 Try more models: Neural networks could provide better results, though at the cost of interpretability 🧬.
