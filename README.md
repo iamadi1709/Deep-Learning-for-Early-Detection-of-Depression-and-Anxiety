@@ -64,9 +64,15 @@ Experiment with new techniques: Testing different parameter combinations and tec
 Mental health is a critical, yet often neglected, part of healthcare. Machine learning can bridge this gap by offering a low-cost, scalable solution to predict depression before it worsens. Our project shows promising results, but there is still much to explore!
 
 🔗 References
+
 World Health Organization Depression Overview: https://www.who.int/news-room/fact-sheets/detail/depression
+
 National Institute of Mental Health on Major Depression: https://www.nimh.nih.gov/health/statistics/major-depression.shtml
+
 APA on Psychology in Health Care: https://www.apa.org/health/briefs/primary-care.pdf
+
 JAMA Study on Team-Based Care: https://jamanetwork.com/journals/jama/fullarticle/2545685
+
 PHQ-9 Depression Screener Validation: https://pubmed.ncbi.nlm.nih.gov/11556941/
+
 Feel free to check out the project, and don’t hesitate to contribute! 💻
