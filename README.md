@@ -12,7 +12,7 @@ Anxiety_Prediction.ipynb: 📓 Initial exploration and data cleaning steps.
 
 Model.ipynb: 📊 Continuation into data exploration and modeling.
 
-PredictingDepressionSlides.pdf: 🎤 PDF version of our project presentation.
+Predicting_Early_Depression and_Anxiety.pdf: 🎤 PDF version of our project presentation.
 
 project_functions/: 🛠 Custom functions used across notebooks.
 
